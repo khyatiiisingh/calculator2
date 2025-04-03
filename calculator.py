@@ -1,3 +1,8 @@
+# Simple Calculator Application with Enhanced Features
+# This calculator performs basic arithmetic operations: addition, subtraction, multiplication, and division.
+# It also includes support for power and modulo operations.
+# The calculator provides error handling for invalid input and division by zero.
+
 import math
 import os
 
