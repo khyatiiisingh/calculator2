@@ -1,21 +1,28 @@
-# Calculator2
-A simple Python calculator that performs basic arithmetic operations:  
-- Addition  
-- Subtraction  
-- Multiplication  
-- Division  
+# Simple Calculator  
 
-## How to Run
-Run the calculator using:
+A feature-rich simple calculator built using Python. This calculator supports various operations, including addition, subtraction, multiplication, division, modulus, exponentiation, and square root calculation. Additionally, it maintains a history of previous calculations and allows clearing the screen for a better user experience.  
 
+## 🚀 Features  
+- Addition, Subtraction, Multiplication, and Division  
+- Modulus and Power Operations  
+- Square Root Calculation  
+- Calculation History Tracking  
+- Clear Screen Option  
+- Enhanced Error Handling  
+- Continuous Use with Loop  
 
-## Features
-- User-friendly CLI interface
-- Handles division by zero gracefully
-- Supports both integer and floating-point numbers
-
-## Installation
-1. Clone the repository:
+##Usage 
+1.Clone the Repository:
 git clone https://github.com/khyatiiisingh/calculator2.git
-2. Run the calculator:
+cd calculator2
+2.Run the Calculator:
+python calculator.py
+3.Follow the Prompts:
+
+Choose an operation by entering the corresponding number (1-4).
+
+Input the numbers as prompted.
+
+View the result or any error messages.
+
 
